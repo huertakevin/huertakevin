@@ -1,7 +1,5 @@
 👋 Hello, my name is Kevin Huerta
 
-🪂 On my free time...
-
 👨‍💻 I'm currently learning...
 
 <!---
